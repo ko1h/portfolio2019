@@ -1,0 +1,8 @@
+body{
+  background-image: url("../img/street.jpeg");
+}
+#content {
+  color: white;
+  text-align: center;
+  padding-top: 10%;
+}
