@@ -1,8 +1,9 @@
 
 body {
-  color: #878787;
+  color: white;
   margin: 0;
-  font: 1em
+  font: 1em;
+  background-color: #5A6075;
 }
 h1 {
   font-size:  5.625rem;
@@ -25,13 +26,12 @@ h2{
   background:url('../img/hood.jpeg') no-repeat center;
   background-size: cover;
 }
+.main-footer {
+  margin-top: 50px;
+}
 .title {
   color: white;
   font-size: 1.625rem;
-}
-.intro {
-  font-size: 1.25em;
-  line-height: 1.6;
 }
 .primary-content,
 .main-header {
