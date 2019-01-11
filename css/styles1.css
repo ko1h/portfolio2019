@@ -1,8 +1,11 @@
 body{
   background-image: url("../img/street.jpeg");
+  background-size: cover;
+  background-position: center;
+
 }
 #content {
   color: white;
   text-align: center;
-  padding-top: 10%;
+  padding-top: 25%;
 }
