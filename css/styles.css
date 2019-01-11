@@ -3,6 +3,7 @@ body {
   color: white;
   margin: 0;
   font: 1em;
+  border: solid;
   background-color: #5A6075;
 }
 h1 {
@@ -26,7 +27,9 @@ h2{
   background-size: cover;
 }
 .main-footer {
-  margin-top: 50px;
+  font-weight: 300;
+  margin: 50px 50px;
+
 }
 .title {
   color: white;
@@ -43,4 +46,7 @@ h2{
 .photo {
   width: 100%;
   length: 100%;
+}
+#education{
+  text-align: center;
 }
