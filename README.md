@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage show some the recently created projects, brief Description of about myself. The hobbies and interest I have and lastly the education and why I am attending Epicodus._
+_This webpage show some the recently created projects, brief Description of about myself. The hobbies and interest I have and lastly the education and why I am attending Epicodus. https://ko1h.github.io/portfolio2019/front.html_
 
 ## Setup/Installation Requirements
 
